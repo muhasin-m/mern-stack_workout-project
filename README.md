@@ -1,0 +1,1 @@
+This project is a MERN stack workout application, built with React, Node.js, Express.js, and MongoDB. It features JWT authentication, user login, and registration, allowing users to individually add and track their workouts. The application boasts a responsive design, ensuring a seamless experience across all devices.
